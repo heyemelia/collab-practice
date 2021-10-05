@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+ 
+}
+*{
+    box-sizing: border-box;
+}
+div{
+    height: cal(100wh / 3);
+    border: 1px solid pink;
+}
+
+.nav{
+    background: blue;
+    height: 50px;
+    justify-content: center;
+
+}
+
+
+.col{
+    height: 100px;
+
+}
+
+.left{
+    background-color: purple;
+
+}
+.right{
+    background-color: red;
+    text-align: right;
+}
+
+.footer{
+    background: green;
+    height: 30px;
+    justify-content: center;
+}
